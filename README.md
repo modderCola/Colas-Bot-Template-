@@ -1,4 +1,4 @@
 # Colas-Bot-Template
-template for a gorilla tag bot
+Template for a gorilla tag bot
 
 PLEASE DO NOT USE THIS IN ANY MOULICIOUS WAY I (cola) AM NOT PERSONALY RESPONSIBLE FOR YOU GETTING BANNED IF YOU USE THIS
